@@ -1,0 +1,1 @@
+replace all strings across docs = Edit > Replace in Files
