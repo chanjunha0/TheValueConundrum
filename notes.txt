@@ -1,1 +1,8 @@
 replace all strings across docs = Edit > Replace in Files
+
+
+// Workaround for obtaining missing Github Download Zip Link // 
+1. Download the zip to local as per normal
+2. Go to download on google chrome
+3. Right click and save the link there
+
